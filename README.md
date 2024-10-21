@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/f2527a90-c718-40f0-8c7d-cb0da5054349)
+![header](https://github.com/user-attachments/assets/f2527a90-c718-40f0-8c7d-cb0da5054349)
 
 ---
 ## About me
@@ -18,3 +18,8 @@ I like to work in a team, and i'm a true loyal of Clean Code.
 ## Contact Me
 
 <a href='https://www.linkedin.com/in/alejandro-campos-gonzález-a7b0b6254/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Camposx&theme=violet-punch&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=939&card_height=200)](https://git.io/streak-stats)
+
+---
+![footer](https://github.com/user-attachments/assets/f2527a90-c718-40f0-8c7d-cb0da5054349)
