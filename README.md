@@ -22,4 +22,3 @@ I like to work in a team, and i'm a true loyal of Clean Code.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Camposx&theme=violet-punch&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=939&card_height=200)](https://git.io/streak-stats)
 
 ---
-![footer](https://github.com/user-attachments/assets/f2527a90-c718-40f0-8c7d-cb0da5054349)
